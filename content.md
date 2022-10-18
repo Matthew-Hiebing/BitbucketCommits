@@ -1,4 +1,4 @@
-**This is a mock repository.  Its purpose is to show work completed through Bitbucket** 
+**This is a mock repository.** 
 
 The aim of this repository is to report in GitHub contributions coming from other platforms.
 
