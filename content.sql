@@ -28,4 +28,4 @@ SELECT * from fbmwj;
 SELECT * from opsly;
 SELECT * from mlcsc;
 SELECT * from ljnfw;
-SELECT * from kogns;
+SELECT * from yroqw;
