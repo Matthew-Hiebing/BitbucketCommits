@@ -51,3 +51,4 @@ SELECT * from nvvff;
 SELECT * from jajxr;
 SELECT * from jbxbo;
 SELECT * from kucik;
+SELECT * from lniit;
