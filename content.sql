@@ -3,3 +3,4 @@ SELECT * from jcfjp;
 SELECT * from lhonc;
 SELECT * from dbgvn;
 SELECT * from clfwy;
+SELECT * from djpil;
