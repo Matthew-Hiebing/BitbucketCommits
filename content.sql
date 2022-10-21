@@ -18,3 +18,4 @@ SELECT * from jhdyg;
 SELECT * from envll;
 SELECT * from lyxlt;
 SELECT * from mvkjm;
+SELECT * from bhgor;
