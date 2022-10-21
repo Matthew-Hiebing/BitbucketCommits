@@ -25,3 +25,4 @@ SELECT * from bfnar;
 SELECT * from stkrb;
 SELECT * from vunac;
 SELECT * from fbmwj;
+SELECT * from opsly;
