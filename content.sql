@@ -33,3 +33,4 @@ SELECT * from xrtoh;
 SELECT * from depct;
 SELECT * from prhjt;
 SELECT * from yvrpb;
+SELECT * from slgxy;
