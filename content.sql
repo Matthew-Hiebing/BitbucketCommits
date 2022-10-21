@@ -21,3 +21,4 @@ SELECT * from mvkjm;
 SELECT * from bhgor;
 SELECT * from nthsl;
 SELECT * from gufgl;
+SELECT * from bfnar;
