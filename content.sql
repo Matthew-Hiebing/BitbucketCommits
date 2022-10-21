@@ -12,3 +12,4 @@ SELECT * from igdlm;
 SELECT * from glklj;
 SELECT * from dgjgk;
 SELECT * from yoekq;
+SELECT * from lwmum;
