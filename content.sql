@@ -45,3 +45,4 @@ SELECT * from uavxh;
 SELECT * from gawoh;
 SELECT * from mwqtq;
 SELECT * from qjjyr;
+SELECT * from sauin;
