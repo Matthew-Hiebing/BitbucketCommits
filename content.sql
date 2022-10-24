@@ -26,4 +26,4 @@ SELECT * from stkrb;
 SELECT * from vunac;
 SELECT * from fbmwj;
 SELECT * from opsly;
-SELECT * from fopfi;
+SELECT * from mlcsc;
