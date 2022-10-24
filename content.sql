@@ -22,4 +22,4 @@ SELECT * from bhgor;
 SELECT * from nthsl;
 SELECT * from gufgl;
 SELECT * from bfnar;
-SELECT * from djqjx;
+SELECT * from stkrb;
