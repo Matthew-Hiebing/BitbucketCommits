@@ -4,4 +4,4 @@ SELECT * from lhonc;
 SELECT * from dbgvn;
 SELECT * from clfwy;
 SELECT * from djpil;
-SELECT * from gwsdp;
+SELECT * from fivrw;
