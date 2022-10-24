@@ -7,3 +7,4 @@ SELECT * from djpil;
 SELECT * from fivrw;
 SELECT * from dsvkj;
 SELECT * from pvtva;
+SELECT * from ofboa;
