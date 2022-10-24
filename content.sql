@@ -40,4 +40,4 @@ SELECT * from ruxij;
 SELECT * from coqhv;
 SELECT * from cxggq;
 SELECT * from meleh;
-SELECT * from wmvkm;
+SELECT * from thody;
