@@ -10,3 +10,4 @@ SELECT * from pvtva;
 SELECT * from roclj;
 SELECT * from igdlm;
 SELECT * from glklj;
+SELECT * from wbcaf;
