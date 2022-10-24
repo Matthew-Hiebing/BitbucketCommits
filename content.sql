@@ -34,4 +34,4 @@ SELECT * from depct;
 SELECT * from prhjt;
 SELECT * from yvrpb;
 SELECT * from slgxy;
-SELECT * from qupyx;
+SELECT * from xkapk;
