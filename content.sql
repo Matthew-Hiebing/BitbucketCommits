@@ -46,4 +46,4 @@ SELECT * from gawoh;
 SELECT * from mwqtq;
 SELECT * from qjjyr;
 SELECT * from sauin;
-SELECT * from iubul;
+SELECT * from ovndm;
