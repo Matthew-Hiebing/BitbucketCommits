@@ -5,4 +5,4 @@ SELECT * from dbgvn;
 SELECT * from clfwy;
 SELECT * from djpil;
 SELECT * from fivrw;
-SELECT * from txpfr;
+SELECT * from wvesx;
