@@ -23,4 +23,4 @@ SELECT * from nthsl;
 SELECT * from gufgl;
 SELECT * from bfnar;
 SELECT * from stkrb;
-SELECT * from sepkx;
+SELECT * from xnthk;
