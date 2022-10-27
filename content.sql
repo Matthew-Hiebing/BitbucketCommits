@@ -35,4 +35,4 @@ SELECT * from prhjt;
 SELECT * from yvrpb;
 SELECT * from slgxy;
 SELECT * from xkapk;
-SELECT * from ufflr;
+SELECT * from oksic;
