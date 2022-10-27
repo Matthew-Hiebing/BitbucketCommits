@@ -47,4 +47,4 @@ SELECT * from mwqtq;
 SELECT * from qjjyr;
 SELECT * from sauin;
 SELECT * from ovndm;
-SELECT * from qnnjn;
+SELECT * from pbykr;
