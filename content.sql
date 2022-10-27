@@ -8,4 +8,4 @@ SELECT * from fivrw;
 SELECT * from dsvkj;
 SELECT * from pvtva;
 SELECT * from roclj;
-SELECT * from yncfr;
+SELECT * from aqnjj;
