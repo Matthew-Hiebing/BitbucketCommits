@@ -1,2 +1,2 @@
 SELECT * from earkr;
-SELECT * from gynwm;
+SELECT * from kkusr;
