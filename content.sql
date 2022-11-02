@@ -11,4 +11,4 @@ SELECT * from roclj;
 SELECT * from igdlm;
 SELECT * from glklj;
 SELECT * from dgjgk;
-SELECT * from lqain;
+SELECT * from gtjbh;
