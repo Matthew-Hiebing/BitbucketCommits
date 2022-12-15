@@ -1,1 +1,1 @@
-console.log("waiec")
+console.log("bwixu")
