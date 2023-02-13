@@ -24,3 +24,4 @@ SELECT * from gufgl;
 SELECT * from bfnar;
 SELECT * from stkrb;
 SELECT * from vunac;
+SELECT * from hmqqq;
