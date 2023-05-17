@@ -51,3 +51,4 @@ SELECT * from nvvff;
 SELECT * from cultk;
 SELECT * from qecbt;
 SELECT * from ybysv;
+SELECT * from wkgjf;
