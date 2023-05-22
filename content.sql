@@ -57,4 +57,4 @@ SELECT * from txqsm;
 SELECT * from fetnf;
 SELECT * from apnpl;
 SELECT * from jlrrx;
-SELECT * from jxloc;
+SELECT * from uwnsy;
