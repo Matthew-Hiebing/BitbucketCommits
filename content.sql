@@ -45,4 +45,4 @@ SELECT * from uavxh;
 SELECT * from bpfty;
 SELECT * from qtixk;
 SELECT * from nufyw;
-SELECT * from bwhuq;
+SELECT * from uwnei;
