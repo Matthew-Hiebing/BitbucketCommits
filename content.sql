@@ -35,4 +35,4 @@ SELECT * from prhjt;
 SELECT * from ovxwm;
 SELECT * from pepke;
 SELECT * from emajr;
-SELECT * from arira;
+SELECT * from jdgqy;
