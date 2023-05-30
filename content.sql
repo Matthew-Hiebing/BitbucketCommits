@@ -39,4 +39,4 @@ SELECT * from hgvdg;
 SELECT * from wisfa;
 SELECT * from oxxvg;
 SELECT * from rhnvd;
-SELECT * from pumlb;
+SELECT * from rbngn;
