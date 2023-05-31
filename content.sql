@@ -50,4 +50,4 @@ SELECT * from ovndm;
 SELECT * from nvvff;
 SELECT * from cultk;
 SELECT * from qecbt;
-SELECT * from rphpk;
+SELECT * from gukqy;
