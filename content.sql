@@ -38,4 +38,3 @@ SELECT * from xkapk;
 SELECT * from hgvdg;
 SELECT * from wisfa;
 SELECT * from oxxvg;
-SELECT * from flkov;
