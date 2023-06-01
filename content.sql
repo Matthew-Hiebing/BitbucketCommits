@@ -37,4 +37,3 @@ SELECT * from slgxy;
 SELECT * from xkapk;
 SELECT * from hgvdg;
 SELECT * from wisfa;
-SELECT * from oxxvg;
