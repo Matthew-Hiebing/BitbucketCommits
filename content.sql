@@ -55,4 +55,3 @@ SELECT * from lniit;
 SELECT * from ejmpn;
 SELECT * from txqsm;
 SELECT * from fetnf;
-SELECT * from apnpl;
