@@ -48,4 +48,4 @@ SELECT * from qjjyr;
 SELECT * from sauin;
 SELECT * from ovndm;
 SELECT * from nvvff;
-SELECT * from tywie;
+SELECT * from uapnq;
