@@ -36,4 +36,4 @@ SELECT * from yvrpb;
 SELECT * from slgxy;
 SELECT * from xkapk;
 SELECT * from hgvdg;
-SELECT * from vrfnb;
+SELECT * from ltsyu;
