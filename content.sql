@@ -54,4 +54,4 @@ SELECT * from kucik;
 SELECT * from lniit;
 SELECT * from ejmpn;
 SELECT * from txqsm;
-SELECT * from lqrod;
+SELECT * from prcst;
