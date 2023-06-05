@@ -32,4 +32,4 @@ SELECT * from pwyxr;
 SELECT * from xrtoh;
 SELECT * from depct;
 SELECT * from prhjt;
-SELECT * from skjjk;
+SELECT * from dxase;
