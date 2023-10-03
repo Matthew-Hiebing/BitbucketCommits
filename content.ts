@@ -1,1 +1,1 @@
-console.log("yinen")
+console.log("nmpld")
