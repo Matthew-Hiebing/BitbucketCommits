@@ -37,3 +37,4 @@ SELECT * from slgxy;
 SELECT * from xkapk;
 SELECT * from hgvdg;
 SELECT * from ruxij;
+SELECT * from coqhv;
