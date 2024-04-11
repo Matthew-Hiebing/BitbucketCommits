@@ -44,3 +44,4 @@ SELECT * from thody;
 SELECT * from uavxh;
 SELECT * from gawoh;
 SELECT * from mwqtq;
+SELECT * from gcvjt;
