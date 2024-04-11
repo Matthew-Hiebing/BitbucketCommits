@@ -56,3 +56,4 @@ SELECT * from ejmpn;
 SELECT * from txqsm;
 SELECT * from efdic;
 SELECT * from hfvkn;
+SELECT * from qblqw;
